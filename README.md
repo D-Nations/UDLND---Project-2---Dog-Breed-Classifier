@@ -16,7 +16,7 @@ Here's a rundown of what I learned in this project:
 
 ## Training the Model
 
-Extract the Data.zip file into the same directory as the model.
+Extract the Data archive files into the same directory as the model.
 
 ## Thoughts
 
