@@ -21,5 +21,8 @@ Extract the Data archive files into the same directory as the model.
 ## Thoughts
 
 This took a long time for me to complete but I found the whole experience very rewarding.  I hope and expect to use everything I learned from this project.  It took a lot of my alloted GPU time on the Udacity workspace to finish the project and get the model above 60% accuracy, but when I got the hang of the hyperparameters the solution that I ended up with took very little time to train.  The two biggest lessons I took from this are:
+
 * If you're chasing down an error you don't understand, the location of the error is probably the biggest clue.  Chase down everything related to that until you can't anymore.
 * It's possible to waste extreme amounts of time if hyperparameters are even slightly off.  Make sure to get those right before you invest too much in training.
+
+I very much enjoyed learning about and using CNNs.
